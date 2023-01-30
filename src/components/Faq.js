@@ -83,7 +83,7 @@ export default function Faq() {
             According the roadmad, we have plan to deploy this project to multiple chain with evm support like BNB, ETH, POLYGON, AVAX, KCC and more.
           </Typography>
           <Typography variant="body2" sx={{ mt: 2}}>
-            And we use only one smartcontract address (0x9c6292e497f8fe023abcfc3 bab3a5895a9180861) with multiple chain.
+            And we use only one smartcontract address ( 0x65Abd48bC38DEA1938AE94428590d4da54f74F) with multiple chain.
           </Typography>
         </AccordionDetails>
       </Accordion>

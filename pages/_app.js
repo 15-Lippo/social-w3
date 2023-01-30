@@ -25,7 +25,7 @@ function MyApp({ Component, pageProps }) {
           name="description"
           content="Your identity across web3, one name for all your crypto addresses, and your decentralised website."
         />
-        <title>Usofnem Registrar | Use Of Name for Anything Across Web3</title>
+        <title>Lisprocoin Registrar | Use Of Name for Anything Across Web3</title>
       </Head>
       <ThemeProvider theme={darkTheme}>
         <CssBaseline />

@@ -45,7 +45,7 @@ export default function Footer() {
                 </Link>
             </Stack>
             <Typography variant="body2" align="center">
-                Build with ❤ by Binance User
+                Build with ❤ by Lippo Francesco engenier
             </Typography>
         </Box>
     );

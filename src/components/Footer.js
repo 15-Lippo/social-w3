@@ -31,15 +31,15 @@ export default function Footer() {
                     sx={{ textDecoration: "none" }}
                     href="https://twitter.com/usofnem"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="https://t.me/lisprocoin"
                 >
                     <Twitter fontSize="large" htmlColor="#1769aa" />
                 </Link>
                 <Link
                     sx={{ textDecoration: "none" }}
-                    href="https://github.com/usofnem"
-                    target="_blank"
-                    rel="noopener noreferrer"
+                    href="https://github.com/15-Lippo/audit-Lisprocoin-Smart-contract/blob/master/Lisprocoin%20_0x70E546c7a2cA4495cFcbE263a3b6D5ce68B2204C.pdf
+                    target="_blank""
+                    rel="https://twitter.com/lisprocoin?t=dwlsM930ZZdcfDxLgsCziA&s=09"
                 >
                     <GitHub fontSize="large" htmlColor="#1769aa" />
                 </Link>
